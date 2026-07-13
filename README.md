@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Ishani Jain 👋
 
-<!--
-**coderishani/coderishani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science & Information Technology Student**
 
-Here are some ideas to get you started:
+I'm passionate about learning by building. My GitHub documents my journey as I explore software development through projects, problem-solving, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- 🐍 Python
+- 🌐 Django
+- ⚡ FastAPI
+- 🧩 Data Structures & Algorithms (Striver A2Z)
+
+## 🚀 Featured Projects
+
+- 🌐 **Frontend E-Commerce Website** – Interactive website built with HTML, CSS & JavaScript
+- 🐍 **Striver A2Z in Python** – My Python solutions to the Striver DSA Sheet
+- 📊 **Market Research Dashboard** *(coming soon)*
+
+## 🛠️ Tech Stack
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Excel
+
+## 🎯 Goals for 2026
+
+- Build strong full-stack projects
+- Strengthen DSA and problem-solving skills
+- Contribute consistently on GitHub
+- Secure a Software Engineering Internship
+
+---
+
+⭐ *Thanks for visiting my profile!*
