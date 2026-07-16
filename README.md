@@ -15,14 +15,13 @@ I'm passionate about learning by building. My GitHub documents my journey as I e
 
 - 🌐 **Frontend E-Commerce Website** – Interactive website built with HTML, CSS & JavaScript
 - 🐍 **Striver A2Z in Python** – My Python solutions to the Striver DSA Sheet
-- 📊 **Market Research Dashboard** *(coming soon)*
+- 📊 **Market Research Dashboard**-Documents an SEO and data analytics assessment completed for Kalvix Nexus during its candidate evaluation process.
 
 ## 🛠️ Tech Stack
 
 - Python
 - HTML
 - CSS
-- JavaScript
 - Git & GitHub
 - Excel
 
