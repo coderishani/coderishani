@@ -98,7 +98,10 @@ GitHub:
 https://github.com/coderishani
 
 LinkedIn:
-(Add your LinkedIn URL)
+www.linkedin.com/in/
+ishani-jain-59830337b
+Vanity URL name
+
 
 ---
 
